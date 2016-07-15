@@ -44,7 +44,7 @@ p {
  padding-top: 5px;
   font-family: Helvetica;
   color: white;
-  border: 1px solid #d0d0d0;
+  border: 1px solid #000000;
   overflow: auto;
   text-align:center;
   font-size: 17px;
@@ -63,7 +63,7 @@ p {
  padding-top: 5px;
   font-family: Helvetica;
    color: white;
-  border: 1px solid #d0d0d0;
+  border: 1px solid #000000;
   overflow: auto;
   text-align:center;
     font-size: 17px;
@@ -82,7 +82,7 @@ p {
  padding-top: 5px;
   font-family: Helvetica;
   color: white;
-  border: 1px solid #d0d0d0;
+  border: 1px solid #000000;
   overflow: auto;
   text-align:center;
     font-size: 17px;
